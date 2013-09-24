@@ -19,7 +19,6 @@ namespace PrimeiroTesteComServiceStack.Rest
             this.Genres = new List<string>();
         }
 
-		// asdkalskdfgjlksdfjdsflkgjlsdf
         public int Id { get; set; }
         public string Title { get; set; }
         public decimal Rating { get; set; }
@@ -30,7 +29,6 @@ namespace PrimeiroTesteComServiceStack.Rest
 
     public class MovieResponse
     {
-	xzvxzcv
         public Movie Movie { get; set; }
     }
 
